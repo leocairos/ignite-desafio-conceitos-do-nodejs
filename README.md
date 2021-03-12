@@ -3,17 +3,17 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leocairos/ignite-desafio-conceitos-reactjs?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leocairos/ignite-desafio-conceitos-do-nodejs?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leocairos/ignite-desafio-conceitos-reactjs">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leocairos/ignite-desafio-conceitos-do-nodejs">
 
-  <a href="https://github.com//leocairos/ignite-desafio-conceitos-reactjs/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leocairos/ignite-desafio-conceitos-reactjs">
+  <a href="https://github.com//leocairos/ignite-desafio-conceitos-do-nodejs/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leocairos/ignite-desafio-conceitos-do-nodejs">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/leocairos/ignite-desafio-conceitos-reactjs/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/leocairos/ignite-desafio-conceitos-reactjs?style=social">
+   <a href="https://github.com/leocairos/ignite-desafio-conceitos-do-nodejs/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/leocairos/ignite-desafio-conceitos-do-nodejs?style=social">
   </a>
 
   <a href="https://www.linkedin.com/in/leonardo-sampaio-cairo-54a74756/">
